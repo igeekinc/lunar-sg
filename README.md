@@ -9,7 +9,7 @@ launches for people who did not bring a rocket or who lost their rocket.  It fli
 B and C motors.
 
 We have an
-[instruction sheet in docs](docs/SG Lunar Rocket Kit.pdf)
+[instruction sheet in docs](docs/SG_Lunar_Rocket_Kit.pdf)
 for assembling the rocket.  To put together a kit you need
 the following:
 
