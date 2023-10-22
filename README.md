@@ -8,7 +8,9 @@ within 30 minutes.  We use this at
 launches for people who did not bring a rocket or who lost their rocket.  It flies reliably on
 B and C motors.
 
-We have in instruction sheet in docs for assembling the rocket.  To put together a kit you need
+We have an
+[instruction sheet in docs](docs/SG Lunar Rocket Kit.pdf)
+for assembling the rocket.  To put together a kit you need
 the following:
 
 # 3D Printed parts
@@ -34,4 +36,4 @@ I recommend printing the fin can and nose cone in PETG or ABS.  PLA+ is fine for
 * Scissors
 * Hobby knife
 
-Gloves are recommended for the assembler as well as the coach when working with superglue!
+Gloves are recommended for the assembler and also the coach when working with superglue!
